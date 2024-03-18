@@ -7,9 +7,12 @@ To set up and run the project successfully, follow these general steps:
 ## Environment Setup (Locally):
 
 Install Python (a version compatible with the libraries used in the notebook).
+
 Set up a virtual environment to manage dependencies (python -m venv venv).
+
 Activate the virtual environment (source venv/bin/activate on Unix/macOS or venv\Scripts\activate on Windows).
-Install the required libraries  tensorflow and numpy
+
+Install the required libraries tensorflow and numpy
 
 ## Hosted setup:
 
