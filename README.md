@@ -11,8 +11,6 @@ Set up a virtual environment to manage dependencies (python -m venv venv).
 Activate the virtual environment (source venv/bin/activate on Unix/macOS or venv\Scripts\activate on Windows).
 Install the required libraries  tensorflow and numpy
 
-# OR
-
 ## Hosted setup:
 
 We used Colab while developing this project which took us couple of hours to train models, but was not super smooth, other options are available e.g. kaggle.
